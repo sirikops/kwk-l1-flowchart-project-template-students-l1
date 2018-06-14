@@ -1,0 +1,25 @@
+
+body {
+    background-color:#FBE8A6;
+}
+h1{color:#F4976C; font-family:"arial"; font-size:50; font-style:oblique; text-shadow:2 2 #D2FDFF;}
+h2{ font-family:arial;font-style:OBLIQUE; color:#F4976C; text-shadow:2 2 #D2FDFF}
+
+p{
+  color: #303C6C;
+  font-size: 20px;
+  font-family: "arial";
+  font-style: oblique
+}
+
+ul {
+  color: #303C6C;
+  font-size: 20;
+  font-family: "arial";
+  font-style: oblique;
+}
+
+a {
+  font-size: 20
+}
+
